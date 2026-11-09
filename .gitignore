@@ -1,0 +1,6 @@
+/outputs/
+__pycache__/
+/data/
+
+*.7z
+*.onnx
